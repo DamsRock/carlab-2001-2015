@@ -1,0 +1,15 @@
+==> 2020-03-20 10:32:22 <==
+# cmd: C:\Users\damie\miniconda3\Scripts\conda-script.py create --prefix=pycar python=3.7
+# conda version: 4.8.3
++defaults/win-64::ca-certificates-2020.1.1-0
++defaults/win-64::certifi-2019.11.28-py37_0
++defaults/win-64::openssl-1.1.1e-he774522_0
++defaults/win-64::pip-20.0.2-py37_1
++defaults/win-64::python-3.7.6-h60c2a47_2
++defaults/win-64::setuptools-46.0.0-py37_0
++defaults/win-64::sqlite-3.31.1-he774522_0
++defaults/win-64::vc-14.1-h0510ff6_4
++defaults/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_1
++defaults/win-64::wheel-0.34.2-py37_0
++defaults/win-64::wincertstore-0.2-py37_0
+# update specs: ['python=3.7']
